@@ -1,1 +1,29 @@
-
+visual encodings
+graphical perception
+index chart
+stacked graph or stream graph
+small multiples
+seasonal patterns
+horizon graph
+data density
+exploratory data analysis
+steam-and-leaf plot
+Q-Q (quantile-quantile) plot
+SPLOM (scatter plot matrix)
+brushing-and-linking
+Parallel coordinates
+pattern findings
+cartographic projection
+flow map
+choropleth map
+graduated symbol map
+Dorling cartogram
+node-link diagram
+adjacency diagram
+indented tree
+enclosure diagram
+effective layout
+graph distance
+force-directed layout
+matrix view
+principled mapping of data
